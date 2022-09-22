@@ -1,3 +1,3 @@
-# Template de Currículo 
+# Template Resume
 
-Template em HTML e CSS para um breve hands on durante a Master Class "Criando um Currículo de Sucesso - O Passo a Passo em Tempo Real".
+Template in HTML and CSS for a brief hands on during the Master Class "Creating a Seccessful Resume - The Step by step in Real Time".
